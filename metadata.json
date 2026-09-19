@@ -1,0 +1,6 @@
+{
+  "name": "Islamabad Guest House F-10",
+  "description": "Official website for Islamabad Guest House F-10. Comfortable, clean, and welcoming guest house accommodation in House 54A, Street 39, F-10/4, Islamabad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
